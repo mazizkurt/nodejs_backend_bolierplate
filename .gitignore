@@ -1,0 +1,27 @@
+
+.env
+# .env.*
+
+.DS_*
+*.log
+logs
+package-lock.json
+
+public
+node_modules
+
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+yarn.lock
+*.lock
+
+.idea
+
+build
+dist
